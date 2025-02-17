@@ -16,7 +16,7 @@ A full-stack blog application built with **React** for the frontend and **MySQL*
 - **Frontend**: React, React Router, Context API
 - **Backend**: Node.js, Express.js
 - **Database**: MySQL
-- **Styling**: CSS Modules
+- **Styling**: SCSS Modules
 - **Authentication**: JSON Web Tokens (JWT) or other authentication methods
 - **Deployment**: Vercel, Netlify, or other hosting services
 ## Usage
